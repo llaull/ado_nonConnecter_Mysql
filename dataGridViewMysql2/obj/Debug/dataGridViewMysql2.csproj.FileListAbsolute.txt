@@ -1,0 +1,11 @@
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\dataGridViewMysql2.exe.config
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\dataGridViewMysql2.exe
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\dataGridViewMysql2.pdb
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.csprojResolveAssemblyReference.cache
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.Form1.resources
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.Properties.Resources.resources
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.csproj.GenerateResource.Cache
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.exe
+c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.pdb
+C:\Users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\MySql.Data.Entity.EF6.dll
