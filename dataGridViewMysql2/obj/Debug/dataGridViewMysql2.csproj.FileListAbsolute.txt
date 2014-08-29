@@ -9,3 +9,14 @@ c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGr
 c:\users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.pdb
 C:\Users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\MySql.Data.Entity.EF5.dll
 C:\Users\laurent\documents\visual studio 2013\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\dataGridViewMysql2.exe.config
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.exe
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.pdb
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\dataGridViewMysql2.exe
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\dataGridViewMysql2.pdb
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.csprojResolveAssemblyReference.cache
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.Form1.resources
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.Properties.Resources.resources
+C:\Users\laurent\OneDrive\afpaDL2014\visual studio 2012\Projects\dataGridViewMysql2\dataGridViewMysql2\obj\Debug\dataGridViewMysql2.csproj.GenerateResource.Cache
